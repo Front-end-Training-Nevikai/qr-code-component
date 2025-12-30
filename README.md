@@ -28,9 +28,11 @@ The goal was to practice layout techniques, CSS variables, and clean project str
 
 ### 📸 Screenshot
 
-![QR Code Component Screenshot](./screenshot.jpg)
+![QR Code Component Screenshot Desktop](assets/images/photo.png)
 
-> _(Replace this image with an actual screenshot of your project.)_
+### Mobile
+![QR Code Component Screenshot Mobile](assets/images/photo%202.png)
+
 
 ### 🔗 Links
 
