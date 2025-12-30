@@ -1,5 +1,5 @@
-   @import url("/assets/styles/root.css");
-@import url("/assets/styles/reset.css");
+   @import url("./root.css");
+@import url("./reset.css");
 
    .qr-code__attribution { font-size: 0.69rem; text-align: center; color: var(--color-Slate-500); }
     .qr-code__attribution a { color: var(--color-Slate-900); }
