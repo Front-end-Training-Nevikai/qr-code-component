@@ -34,8 +34,8 @@ The goal was to practice layout techniques, CSS variables, and clean project str
 
 ### 🔗 Links
 
-- **Solution URL:**  (Solution)[]
-- **Live Site URL:**  (Live Demo)[]
+- **Solution URL:**  [Solution]()
+- **Live Site URL:**  [Live Demo](https://nevikai.github.io/qr-code-component/)
 
 ---
 
@@ -115,9 +115,9 @@ In future projects, I plan to:
 
 Name: Ali Nevikai
 
-Frontend Mentor: (@AliNevikai)[https://www.frontendmentor.io/profile/nevikai]
+Frontend Mentor: [@AliNevikai](https://www.frontendmentor.io/profile/nevikai)
 
-GitHub: (Nevikai)[https://github.com/nevikai]
+GitHub: [Nevikai](https://github.com/nevikai)
 
 ## 🙏 Acknowledgments
 
