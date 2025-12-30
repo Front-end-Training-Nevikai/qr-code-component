@@ -35,7 +35,7 @@ The goal was to practice layout techniques, CSS variables, and clean project str
 ### 🔗 Links
 
 - **Solution URL:**  [Solution]()
-- **Live Site URL:**  [Live Demo](https://nevikai.github.io/qr-code-component/)
+- **Live Site URL:**  [Live Demo](https://front-end-training-nevikai.github.io/qr-code-component/)
 
 ---
 
