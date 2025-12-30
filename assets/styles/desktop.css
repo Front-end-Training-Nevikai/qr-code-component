@@ -1,0 +1,10 @@
+@import url("/assets/styles/root.css");
+@import url("/assets/styles/reset.css");
+
+
+@media screen and (min-width: 90rem) {
+.qr-code__title{
+font-weight: 800;
+line-height: var(--txt-line-height-2);
+}
+}

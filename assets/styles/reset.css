@@ -1,0 +1,31 @@
+@import url(/assets/styles/root.css);
+/*  Improve text rendering & box sizing */
+html {
+  box-sizing: border-box;
+}
+/*  Box sizing rules */
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+/* Remove default margin & padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set core body defaults */
+body {
+  min-height: 100vh;
+  background-color: var(--color-Slate-300) ;
+  font-family: 'Outfit' ,serif;
+}
+
+/*  Improve media defaults */
+img {
+  display: block;
+  max-width: 100%;
+}
