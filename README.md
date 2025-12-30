@@ -117,7 +117,7 @@ Name: Ali Nevikai
 
 Frontend Mentor: (@AliNevikai)[https://www.frontendmentor.io/profile/nevikai]
 
-GitHub: (Nevikai)[https://www.frontendmentor.io/profile/nevikai]
+GitHub: (Nevikai)[https://github.com/nevikai]
 
 ## 🙏 Acknowledgments
 
